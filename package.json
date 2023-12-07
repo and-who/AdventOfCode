@@ -12,7 +12,10 @@
     "start:01": "ts-node ./src/01/index.ts",
     "start:02": "ts-node ./src/02/index.ts",
     "start:03": "ts-node ./src/03/index.ts",
-    "start:04": "ts-node ./src/04/index.ts"
+    "start:04": "ts-node ./src/04/index.ts",
+    "start:05": "ts-node ./src/05/index.ts",
+    "start:06": "ts-node ./src/06/index.ts",
+    "start:07": "ts-node ./src/07/index.ts"
   },
   "packageManager": "yarn@4.0.2",
   "devDependencies": {
