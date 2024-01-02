@@ -23,7 +23,9 @@
     "start:12": "ts-node ./src/12/index.ts",
     "start:13": "ts-node ./src/13/index.ts",
     "start:14": "ts-node ./src/14/index.ts",
-    "start:15": "ts-node ./src/15/index.ts"
+    "start:15": "ts-node ./src/15/index.ts",
+    "start:18": "ts-node ./src/18/index.ts",
+    "start:21": "ts-node ./src/21/index.ts"
   },
   "packageManager": "yarn@4.0.2",
   "devDependencies": {
